@@ -5,7 +5,7 @@ int main () {
     cout << "Hyy Gautam Rathour\n";
      cout << "Hyy Gautam Rathour\n";
      
-     cout << "Hyy Gautam Rathour\n";
+     cout << "Hyy Gautam \n";
      cout << "Hello Raj ";
      
 
