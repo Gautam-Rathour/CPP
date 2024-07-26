@@ -8,7 +8,7 @@ int main () {
      
      cout << "Hyy Gautam \n";
      cout << "Hello Raj ";
-     cout << "HM";
+     cout << "HM G";
 
     return 0;
 }
