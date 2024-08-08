@@ -10,5 +10,6 @@ int main(){
     std::cout<<"Hello Duniya\n";
     std::cout<<"Hello India";
     std::cout<<"Hello India";
+    std::cout<<"Hello India";
     return 0;
 }
