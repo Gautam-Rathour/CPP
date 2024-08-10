@@ -15,6 +15,6 @@ int main(){
     std::cout<<"Hello";
     std::cout<<"Hello World\n";
     std::cout<<"Hello \n";
-    std::cout<<"Hello Wo\n";
+    std::cout<<"Hello \n";
     return 0;
 }
