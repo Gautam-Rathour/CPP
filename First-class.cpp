@@ -5,6 +5,8 @@ int main(){
     std::cout<<"Hello India";
     
     int a = 5;
+        std::cout<<"Hello World\n";
+
     std::cout<<"Hello World\n";
     std::cout<<"Hello World\n";
     std::cout<<"Hello Duniya\n";
