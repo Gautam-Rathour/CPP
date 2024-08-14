@@ -11,7 +11,7 @@ int main(){
     std::cout<<"Hello World\n";
     std::cout<<"Hello Duniya\n";
     std::cout<<"Hello ";
-    std::cout<<"Hello Duniy\n";
+    std::cout<<"Hello Duiy\n";
     std::cout<<"Hello ";
     std::cout<<"Hello ";
     std::cout<<"Hello";
