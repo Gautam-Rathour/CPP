@@ -7,7 +7,7 @@ int main(){
     int a = 5;
         std::cout<<"Hello World\n";
 
-    std::cout<<"Hello Wol\n";
+    std::cout<<"Hello Wo\n";
     std::cout<<"Hello \n";
     std::cout<<"Hello \n";
     std::cout<<"Hello ";
