@@ -7,7 +7,7 @@ int main(){
     int a = 5;
         std::cout<<"Hello World\n";
 
-    std::cout<<"Hello World is my Firs p\n";
+    std::cout<<"Hello World is my Firp\n";
     std::cout<<"Hello \n";
     std::cout<<"Hello \n";
     std::cout<<"Hello ";
