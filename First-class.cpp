@@ -6,7 +6,7 @@ int main(){
     
     int a = 5;
         std::cout<<"Hello World\n";
-    std::cout<<"Hello World sdfsdfhskjflskjflskjfslk jf;akfja;sg\n";
+    std::cout<<"Hello World sdfsdfhskjflskjflskjslk jf;akfja;sg\n";
     std::cout<<"Hello \n";
     std::cout<<"Hello \n";
     std::cout<<"Hello ";
